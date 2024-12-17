@@ -70,7 +70,7 @@ RegisterNumber:24900728
 
 
 **Output/TIMING Waveform**
-![Screenshot 2024-12-08 041618](https://github.com/user-attachments/assets/c5029aa5-e8f0-428c-8c83-69ac6008bfc3)
+![Screenshot 2024-12-17 130600](https://github.com/user-attachments/assets/2bcc6769-0f41-42ac-89e7-731a7904ab8c)
 
 **Result:**
 THE TRUTH TABLE OF HALF ADDER AND HALF SUBRACTOR VERIFIED SUCCESFULLY
